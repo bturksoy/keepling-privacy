@@ -74,6 +74,4 @@ updated" date above.
 
 ## 11. Contact
 
-Questions? Contact us at **btrinteractive@gmail.com**.
-
-> ⚠️ Replace the contact email above with your real support email before publishing.
+Questions? Contact us at **btrinteractive@gmail.com**
